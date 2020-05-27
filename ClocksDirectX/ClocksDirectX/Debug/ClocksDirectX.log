@@ -1,0 +1,11 @@
+﻿  game.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\ClocksDirectX\ClocksDirectX\game.cpp(55,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\ClocksDirectX\ClocksDirectX\game.cpp(66,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  random.cpp
+  utility.cpp
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\ClocksDirectX\ClocksDirectX\game.cpp(77,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\ClocksDirectX\ClocksDirectX\utility.cpp(100,47): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\ClocksDirectX\ClocksDirectX\utility.cpp(137,35): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+  ClocksDirectX.vcxproj -> D:\Users\tyler\Documents - DD\Stuff\NewestNewestStuff\ClocksDirectX\ClocksDirectX\../bin/ClocksDirectX.exe
